@@ -1,1 +1,1 @@
-# Salary-Prediction-Model_Deployment_Heroku
+# Salary-Prediction-Model-Deployment-Heroku
